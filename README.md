@@ -6,6 +6,7 @@
 
 | 编辑器 | 版本 | 平台 |
 | :-: | :-: | :-: |
+| Creative Cloud | v5.1.0.407 | Windows |
 | Dreamweaver CC | v18.2 | Windows |
 | Sublime Text | v3.2.2 | Windows x64 |
 | Visual Studio Code | v1.47.2 | Windows x64 |
