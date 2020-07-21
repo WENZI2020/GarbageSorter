@@ -56,7 +56,7 @@ $().ready(function(){
 		$(this).css({"color":"white",
 					 "transform":"rotate(-540deg)",
 					 "background-color":"rgba(0,51,0,0.6)"});
-		$(this).html("RUN<br/>奔跑");
+		$(this).html("RUN<br/>冲锋");
 	},function(){
 		$(this).css({"color":"white",
 					 "transform":"rotate(-1080deg)",
@@ -77,7 +77,7 @@ $().ready(function(){
 var index=0;
 var aboutme=function(){
 	var arr=new Array();
-	arr=["被称作曾昭文","学会web前端开发","擅长绘画设计编程","来自计设院软件班","就是网站制作人"];
+	arr=["被称作（曾昭文）","学会web前端开发","擅长绘画设计编程","来自计设院软件班","就是本网站制作者"];
 	if(index==arr.length){
 		index=0;
 	}
