@@ -1,0 +1,21 @@
+CACHE MANIFEST
+# 2020-12-09 v1.0.0
+
+CACHE:
+favicon.ico
+/public/img/welcome.png
+/public/img/schoolview.png
+/public/css/style.css
+/public/css/main.css
+/public/css/popper.css
+/public/css/bootstrap.css
+/public/ui/index.js
+/public/ui/main.js
+/public/ui/jquery.js
+/public/ui/popper.js
+/public/ui/bootstrap.js
+/public/ui/html5shiv.js
+/public/ui/respond.js
+
+NETWORK:
+*
