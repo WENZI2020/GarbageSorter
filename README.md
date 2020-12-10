@@ -1,5 +1,6 @@
 # GarbageSorter
 
+[![Fork me on Gitee](https://gitee.com/WENZI2020/GarbageSorter/widgets/widget_3.svg)](https://gitee.com/WENZI2020/GarbageSorter)<br/>
 垃圾分类web前端 ![](https://img.shields.io/badge/曾昭文-个人项目-red.svg)<br/>消息！《广州市居民家庭生活垃圾分类投放指南》新版来了。特别为此宣传给市民。
 
 #### 集成环境
